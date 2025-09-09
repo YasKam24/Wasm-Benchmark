@@ -1,0 +1,10 @@
+/home/yash/wasi-sdk/bin/clang++ --target=wasm32-wasi -o factors.wasm factors.cpp
+~/test/benchmark/Math/c/factors$ wasmedge --reactor factors.wasm factors 30
+
+GOROOT=$HOME/go/bin
+PATH=$PATH:$GOROOT:$GOPATH
+GOPATH=$HOME/go/bin
+tinygo build -o factor.wasm -target wasi factor.go
+
+cargo build --target=wasm32-wasip1 --release
+

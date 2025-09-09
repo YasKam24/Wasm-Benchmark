@@ -1,0 +1,11 @@
+Average Container Creation Time (Python Alpine):
+{'cosine': 0.3376093383}
+{'sine': 0.34229427349999997}
+{'factorial': 0.32910656380000003}
+{'factors': 0.3383795642}
+
+Average Execution Time (Python Alpine):
+{'cosine': 0.46355721980000003}
+{'sine': 0.46222414}
+{'factorial': 0.4508116631}
+{'factors': 0.45667954480000006}

@@ -1,0 +1,5 @@
+
+FROM python:3.10-alpine3.14
+WORKDIR /
+COPY cosine.py /cosine.py
+CMD ["python3", "./cosine.py", "40"]

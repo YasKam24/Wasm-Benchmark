@@ -1,0 +1,295 @@
+Image: yaskam24/c:factors
+Container ID: 68890bd31e0ca4bd9e57941923959cd5cb62d5af7dc41cab29b381ff32fd1ebd
+Exit code: 0
+Total execution time: 0.237758636 seconds
+UTC: 2025-08-25 20:17:58.418528+00:00, IST: 2025-08-26 01:47:58.418528+00:00
+Container creations: 0.148958000 seconds
+Logs:
+25-08-2025 20:17:58.418528860
+1
+2
+4
+5
+8
+10
+20
+40
+Total factors: 8
+
+
+Image: yaskam24/c:sine
+Container ID: 26496bacd2c2b0badeec8d427f24f8783d60bc381d4c9d96dd875d66fda4e32a
+Exit code: 0
+Total execution time: 0.231217861 seconds
+UTC: 2025-08-25 20:17:58.646776+00:00, IST: 2025-08-26 01:47:58.646776+00:00
+Container creations: 0.139313000 seconds
+Logs:
+25-08-2025 20:17:58.646776318
+Sine of 40.000000 radians is: 0.745113
+
+
+Image: yaskam24/c:cosine
+Container ID: 59d6c6117106df0863ec9ece514db6400913260d22b6b752cb072d832b9a60a3
+Exit code: 0
+Total execution time: 0.248883486 seconds
+UTC: 2025-08-25 20:17:58.896716+00:00, IST: 2025-08-26 01:47:58.896716+00:00
+Container creations: 0.157799000 seconds
+Logs:
+25-08-2025 20:17:58.896716071
+Cosine of 40.000000 radians is: -0.666938
+
+
+Image: yaskam24/c:factorial
+Container ID: 671aef8d5fecabddd8459c3fe2da942e27ee0365692d16149fa41503c9081941
+Exit code: 0
+Total execution time: 0.313172817 seconds
+UTC: 2025-08-25 20:17:59.181928+00:00, IST: 2025-08-26 01:47:59.181928+00:00
+Container creations: 0.193916000 seconds
+Logs:
+25-08-2025 20:17:59.181928440
+Sum of factorials from 1 to 40 is: 836850334330315396667107416678319051186662014976
+
+
+Image: yaskam24/go:factors
+Container ID: a3770f855f37eb78c3e19e0137ed8c304a48cc097403c7a2219087394aa572bc
+Exit code: 0
+Total execution time: 0.326948643 seconds
+UTC: 2025-08-25 20:17:59.514225+00:00, IST: 2025-08-26 01:47:59.514225+00:00
+Container creations: 0.212754000 seconds
+Logs:
+With Nanoseconds: 25-08-2025 20:17:59.514225523
+Factors of 30: 1 2 3 5 6 10 15 30 
+
+
+Image: yaskam24/go:sine
+Container ID: af0b00d550b632b9dcd3b30f937df2277fb94a2458418e6ec40396400b389442
+Exit code: 0
+Total execution time: 0.326882839 seconds
+UTC: 2025-08-25 20:17:59.837050+00:00, IST: 2025-08-26 01:47:59.837050+00:00
+Container creations: 0.208247000 seconds
+Logs:
+With Nanoseconds: 25-08-2025 20:17:59.837050685
+Sine of 40.000000 radians is: 0.745113
+
+
+Image: yaskam24/go:cosine
+Container ID: 8c9f8d6ac5ac05bb371d5da0ab6c6814527e5612674dc95df0831df51df3a03c
+Exit code: 0
+Total execution time: 0.326110125 seconds
+UTC: 2025-08-25 20:18:00.155821+00:00, IST: 2025-08-26 01:48:00.155821+00:00
+Container creations: 0.199703000 seconds
+Logs:
+With Nanoseconds: 25-08-2025 20:18:00.155821251
+Cosine of 30.000000 radians is: 0.154251
+
+
+Image: yaskam24/go:factorial
+Container ID: 9293f57a5ce1fe2a54acb11dd08c97b842ef2eb9b47f6556548a473e55fbc547
+Exit code: 0
+Total execution time: 0.265278101 seconds
+UTC: 2025-08-25 20:18:00.451487+00:00, IST: 2025-08-26 01:48:00.451487+00:00
+Container creations: 0.168993000 seconds
+Logs:
+With Nanoseconds: 25-08-2025 20:18:00.451487146
+Sum of factorials from 1 to 30 is: 274410818470142123507599626207232
+
+
+Image: yaskam24/rust:factors
+Container ID: fd360df748acf876e8a8bd943043ecddc72506fab90452675a774306687456d7
+Exit code: 0
+Total execution time: 0.220774174 seconds
+UTC: 2025-08-25 20:18:00.667650+00:00, IST: 2025-08-26 01:48:00.667650+00:00
+Container creations: 0.119652000 seconds
+Logs:
+Current UTC time: 2025-08-25 20:18:00.667650390 UTC
+factor: 1
+factor: 2
+factor: 3
+factor: 5
+factor: 6
+factor: 10
+factor: 15
+factor: 30
+
+
+Image: yaskam24/rust:sine
+Container ID: f1a5da99f0b9be5dad3d542aa278fd9ec0e4f9c6fd6099c29f929ab63eece354
+Exit code: 0
+Total execution time: 0.291474342 seconds
+UTC: 2025-08-25 20:18:00.938425+00:00, IST: 2025-08-26 01:48:00.938425+00:00
+Container creations: 0.169400000 seconds
+Logs:
+Current UTC time: 2025-08-25 20:18:00.938425902 UTC
+Cosine of 30 radians is: 0.15425144988758405
+
+
+Image: yaskam24/rust:cosine
+Container ID: f226e7f4e73b1cc733e5266cad5bddbb8197489c255edaec12f361efd0a92cc0
+Exit code: 0
+Total execution time: 0.244201183 seconds
+UTC: 2025-08-25 20:18:01.204118+00:00, IST: 2025-08-26 01:48:01.204118+00:00
+Container creations: 0.143255000 seconds
+Logs:
+Current UTC time: 2025-08-25 20:18:01.204118670 UTC
+Cosine of 30 radians is: 0.15425144988758405
+
+
+Image: yaskam24/rust:factorial
+Container ID: 423a17ed24926ef9689b494a64067ec6661f20baae069a15bd9651fa1c50b1cc
+Exit code: 0
+Total execution time: 0.244886637 seconds
+UTC: 2025-08-25 20:18:01.461577+00:00, IST: 2025-08-26 01:48:01.461577+00:00
+Container creations: 0.156040000 seconds
+Logs:
+Current UTC time: 2025-08-25 20:18:01.461577080 UTC
+Sum of factorials from 1 to 30 is: 274410818470142120000000000000000
+
+
+Image: yaskam24/c_alpine:factors
+Container ID: 4f0691223e17cec23982413e3cae02c913fd90d7e1938cc18e32dffeb37b809b
+Exit code: 0
+Total execution time: 0.254733801 seconds
+UTC: 2025-08-25 20:18:01.687255+00:00, IST: 2025-08-26 01:48:01.687255+00:00
+Container creations: 0.136533000 seconds
+Logs:
+25-08-2025 20:18:01.687255683
+1
+2
+4
+5
+8
+10
+20
+40
+Total factors: 8
+
+
+Image: yaskam24/c_alpine:sine
+Container ID: 4f3dad7b2829d6aa7ef796a2f8209917fc0294c0adeef715807cf8c4d7fb6f9b
+Exit code: 0
+Total execution time: 0.273898363 seconds
+UTC: 2025-08-25 20:18:01.964839+00:00, IST: 2025-08-26 01:48:01.964839+00:00
+Container creations: 0.159236000 seconds
+Logs:
+25-08-2025 20:18:01.964839549
+Sine of 40.000000 radians is: 0.745113
+
+
+Image: yaskam24/c_alpine:cosine
+Container ID: cdf7f16706c2735ddf88ef2d40d0c63889bd9c191e0ef5f3ebe4ce2ca8ca8bef
+Exit code: 0
+Total execution time: 0.299019814 seconds
+UTC: 2025-08-25 20:18:02.277603+00:00, IST: 2025-08-26 01:48:02.277603+00:00
+Container creations: 0.197836000 seconds
+Logs:
+25-08-2025 20:18:02.277603586
+Cosine of 40.000000 radians is: -0.666938
+
+
+Image: yaskam24/c_alpine:factorial
+Container ID: c5ac41830b2db9e010beed2df47ea21eb956c226c1b68c65694389a3ca10d460
+Exit code: 0
+Total execution time: 0.299902439 seconds
+UTC: 2025-08-25 20:18:02.563938+00:00, IST: 2025-08-26 01:48:02.563938+00:00
+Container creations: 0.184831000 seconds
+Logs:
+25-08-2025 20:18:02.563938446
+Sum of factorials from 1 to 40 is: 836850334330315396667107416678319051186662014976
+
+
+Image: yaskam24/go_alpine:factors
+Container ID: cbf608d89231fdc9777e5f457bacc46de24b7b70f049fe42e9f4893417951d0e
+Exit code: 0
+Total execution time: 0.323192120 seconds
+UTC: 2025-08-25 20:18:02.884231+00:00, IST: 2025-08-26 01:48:02.884231+00:00
+Container creations: 0.204986000 seconds
+Logs:
+With Nanoseconds: 25-08-2025 20:18:02.884231220
+Factors of 40: 1 2 4 5 8 10 20 40 
+
+
+Image: yaskam24/go_alpine:sine
+Container ID: 179d15dba33f95f3aa22112aec19a5e76c9fac8c22a4774fb88db277584a21f2
+Exit code: 0
+Total execution time: 0.281576157 seconds
+UTC: 2025-08-25 20:18:03.163203+00:00, IST: 2025-08-26 01:48:03.163203+00:00
+Container creations: 0.160600000 seconds
+Logs:
+With Nanoseconds: 25-08-2025 20:18:03.163203980
+Sine of 40.000000 radians is: 0.745113
+
+
+Image: yaskam24/go_alpine:cosine
+Container ID: 8501a0389ed603a44e10089e356d9954dcfc5f868a88843c3ec3641b8a9fc368
+Exit code: 0
+Total execution time: 0.285423756 seconds
+UTC: 2025-08-25 20:18:03.449178+00:00, IST: 2025-08-26 01:48:03.449178+00:00
+Container creations: 0.164867000 seconds
+Logs:
+With Nanoseconds: 25-08-2025 20:18:03.449178096
+Cosine of 40.000000 radians is: -0.666938
+
+
+Image: yaskam24/go_alpine:factorial
+Container ID: 4bec0c4f8ef3cfe05dfbfa03a588fd9e5563881a72d883a96e71ed8cf7418708
+Exit code: 0
+Total execution time: 0.266806602 seconds
+UTC: 2025-08-25 20:18:03.719190+00:00, IST: 2025-08-26 01:48:03.719190+00:00
+Container creations: 0.149095000 seconds
+Logs:
+With Nanoseconds: 25-08-2025 20:18:03.719190443
+Sum of factorials from 1 to 40 is: 836850334330315396667107416678319051186662014976
+
+
+Image: yaskam24/rust_alpine:factors
+Container ID: 94c6f4c6585c1b4b97afbeef8a0b52c910bb026c03662665b3bcf4533f7c97f1
+Exit code: 0
+Total execution time: 0.278270483 seconds
+UTC: 2025-08-25 20:18:04.004745+00:00, IST: 2025-08-26 01:48:04.004745+00:00
+Container creations: 0.167672000 seconds
+Logs:
+Current UTC time: 2025-08-25 20:18:04.004745001 UTC
+factor: 1
+factor: 2
+factor: 4
+factor: 5
+factor: 8
+factor: 10
+factor: 20
+factor: 40
+Total factors: 8
+
+
+Image: yaskam24/rust_alpine:sine
+Container ID: f307721940b592c1acd1fdf9955c7da8e8bb4dcd611d7e851b0d6fab3a738aa3
+Exit code: 0
+Total execution time: 0.276798487 seconds
+UTC: 2025-08-25 20:18:04.284672+00:00, IST: 2025-08-26 01:48:04.284672+00:00
+Container creations: 0.169031000 seconds
+Logs:
+Current UTC time: 2025-08-25 20:18:04.284672609 UTC
+Sine of 40 radians is: 0.7451131604793488
+
+
+Image: yaskam24/rust_alpine:cosine
+Container ID: cf934f0fecb143cf3d5383aa4c19e3601f0d90b93c8639fe0cb7008ddd5fa64e
+Exit code: 0
+Total execution time: 0.247750044 seconds
+UTC: 2025-08-25 20:18:04.552275+00:00, IST: 2025-08-26 01:48:04.552275+00:00
+Container creations: 0.159509000 seconds
+Logs:
+Current UTC time: 2025-08-25 20:18:04.552275235 UTC
+Cosine of 40 radians is: -0.6669380616522619
+
+
+Image: yaskam24/rust_alpine:factorial
+Container ID: 5e56a2deb07ffac27eda1e10be0686205b5589907493d65f961153443afd1601
+Exit code: 0
+Total execution time: 0.309299707 seconds
+UTC: 2025-08-25 20:18:04.823180+00:00, IST: 2025-08-26 01:48:04.823180+00:00
+Container creations: 0.182307000 seconds
+Logs:
+Current UTC time: 2025-08-25 20:18:04.823180320 UTC
+Sum of factorials from 1 to 40 is: 836850334330315400000000000000000000000000000000
+
+

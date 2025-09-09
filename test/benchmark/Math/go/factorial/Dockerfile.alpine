@@ -1,0 +1,6 @@
+FROM golang:1.22-alpine3.18
+WORKDIR /
+COPY main.go /
+RUN go mod init factorial
+RUN go build -o factorial
+CMD ["./factorial", "40"]

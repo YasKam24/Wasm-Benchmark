@@ -1,0 +1,6 @@
+FROM alpine:3.14
+RUN apk add --no-cache build-base
+WORKDIR /
+COPY factors.cpp /
+RUN g++ -o factors factors.cpp -lm
+CMD ["/factors", "40"]
