@@ -1,0 +1,7 @@
+FROM golang:1.22-alpine3.18
+WORKDIR /
+COPY main.go /
+RUN go mod init factors
+RUN go build -o factors
+CMD ["./factors", "40"]
+    

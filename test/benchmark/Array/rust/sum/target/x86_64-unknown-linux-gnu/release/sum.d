@@ -1,0 +1,1 @@
+/home/sankalp/repos/serverless/Wasm-Benchmark/test/benchmark/Array/rust/sum/target/x86_64-unknown-linux-gnu/release/sum: /home/sankalp/repos/serverless/Wasm-Benchmark/test/benchmark/Array/rust/sum/src/main.rs

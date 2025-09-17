@@ -1,0 +1,5 @@
+
+FROM python:3.10-alpine3.14
+WORKDIR /
+COPY sine.py /sine.py
+CMD ["python3", "./sine.py", "40"]

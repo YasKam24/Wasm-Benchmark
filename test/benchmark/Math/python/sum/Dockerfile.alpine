@@ -1,0 +1,4 @@
+FROM python:3.10-alpine3.14
+WORKDIR /
+COPY sum.py /sum.py
+CMD ["python3", "./sum.py", "10000"]

@@ -1,0 +1,6 @@
+FROM golang:1.22-alpine3.18
+WORKDIR /
+COPY main.go /
+RUN go mod init sine
+RUN go build -o sine
+CMD ["./sine", "40"]

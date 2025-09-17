@@ -1,0 +1,6 @@
+FROM alpine:3.14
+RUN apk add --no-cache build-base
+WORKDIR /
+COPY factorial.cpp /
+RUN g++ -o factorial factorial.cpp -lm
+CMD ["/factorial", "40"]
