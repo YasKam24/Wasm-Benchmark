@@ -1,6 +1,0 @@
-FROM golang:1.22-alpine3.18
-WORKDIR /
-COPY main.go /
-RUN go mod init cosine
-RUN go build -o cosine
-CMD ["./cosine", "40"]

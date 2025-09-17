@@ -1,6 +1,0 @@
-FROM alpine:3.14
-RUN apk add --no-cache build-base
-WORKDIR /
-COPY sine.cpp /
-RUN g++ -o sine sine.cpp -lm
-CMD ["./sine", "40"]

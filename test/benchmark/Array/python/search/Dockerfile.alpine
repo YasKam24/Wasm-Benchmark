@@ -1,4 +1,0 @@
-FROM python:3.10-alpine3.14
-WORKDIR /
-COPY search.py /search.py
-CMD ["python3", "./search.py", "10000"]

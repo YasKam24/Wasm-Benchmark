@@ -1,1 +1,0 @@
-/home/sankalp/repos/serverless/Wasm-Benchmark/test/benchmark/Array/rust/reverse/target/x86_64-unknown-linux-gnu/release/reverse: /home/sankalp/repos/serverless/Wasm-Benchmark/test/benchmark/Array/rust/reverse/src/main.rs

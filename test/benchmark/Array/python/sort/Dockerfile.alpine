@@ -1,4 +1,0 @@
-FROM python:3.10-alpine3.14
-WORKDIR /
-COPY sort.py /sort.py
-CMD ["python3", "./sort.py", "10000"]

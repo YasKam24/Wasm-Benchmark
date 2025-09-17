@@ -1,6 +1,0 @@
-FROM alpine:3.14
-RUN apk add --no-cache build-base
-WORKDIR /
-COPY cosine.cpp /
-RUN g++ -o cosine cosine.cpp -lm
-CMD ["/cosine", "40"]

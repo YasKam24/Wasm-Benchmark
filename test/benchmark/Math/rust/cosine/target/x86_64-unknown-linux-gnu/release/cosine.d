@@ -1,1 +1,0 @@
-/home/sankalp/repos/serverless/Wasm-Benchmark/test/benchmark/Math/rust/cosine/target/x86_64-unknown-linux-gnu/release/cosine: /home/sankalp/repos/serverless/Wasm-Benchmark/test/benchmark/Math/rust/cosine/src/main.rs

@@ -1,1 +1,0 @@
-/home/sankalp/repos/serverless/Wasm-Benchmark/test/benchmark/Math/rust/factors/target/x86_64-unknown-linux-gnu/release/factors: /home/sankalp/repos/serverless/Wasm-Benchmark/test/benchmark/Math/rust/factors/src/main.rs
